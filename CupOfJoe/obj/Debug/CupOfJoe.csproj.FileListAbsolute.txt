@@ -1,0 +1,10 @@
+C:\Users\Stephen\Desktop\CupOfJoe\CupOfJoe\bin\Debug\CupOfJoe.exe.config
+C:\Git Projects\CupOfJoe\CupOfJoe\CupOfJoe\bin\Debug\CupOfJoe.exe.config
+C:\Git Projects\CupOfJoe\CupOfJoe\CupOfJoe\bin\Debug\CupOfJoe.exe
+C:\Git Projects\CupOfJoe\CupOfJoe\CupOfJoe\bin\Debug\CupOfJoe.pdb
+C:\Git Projects\CupOfJoe\CupOfJoe\CupOfJoe\obj\Debug\CupOfJoe.csprojResolveAssemblyReference.cache
+C:\Git Projects\CupOfJoe\CupOfJoe\CupOfJoe\obj\Debug\CupOfJoe.MainWindow.resources
+C:\Git Projects\CupOfJoe\CupOfJoe\CupOfJoe\obj\Debug\CupOfJoe.Properties.Resources.resources
+C:\Git Projects\CupOfJoe\CupOfJoe\CupOfJoe\obj\Debug\CupOfJoe.csproj.GenerateResource.Cache
+C:\Git Projects\CupOfJoe\CupOfJoe\CupOfJoe\obj\Debug\CupOfJoe.exe
+C:\Git Projects\CupOfJoe\CupOfJoe\CupOfJoe\obj\Debug\CupOfJoe.pdb
